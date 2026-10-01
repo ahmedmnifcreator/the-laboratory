@@ -1,0 +1,10 @@
+.member-table {
+  width: 100%;
+  margin-top: 16px;
+  background: white;
+}
+
+th.mat-header-cell,
+td.mat-cell {
+  padding: 12px 16px;
+}
